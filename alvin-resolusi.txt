@@ -1,0 +1,8 @@
+Senin: 2 eps css 1 python
+Selasa: 2 eps python 1 eps js
+Rabu: 2 eps js 1 eps tailwind
+Kamis: 2 eps tailwind 1 eps php
+Jumat: 2 eps php nyicil bootstrap 5 +coba
+Sabtu: nyicil bootstrap 5 +coba
+
+*Tambahan: belajar GitHub & git di hari minggu (Insha Allah😁)
